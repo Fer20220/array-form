@@ -3,10 +3,9 @@
         
             function guardarDato() {
                 var dato = document.getElementById("datoInput").value;
-            
                 
                 datos = [dato];
-            
+                
                 mostrarDatos();
             }
         
